@@ -3,24 +3,24 @@
 		"name":"Rihanna",
 		"sex":"female"	,
 		"occupatoin":"singer actor model",
-		"url":"./three/img/27.jpg"
+		"url":"../img/27.jpg"
 	},
 	{
 		"name":"Adele",
 		"sex":"female"	,
 		"occupatoin":"singer actor model",
-		"url":"./three/img/31.jpg"
+		"url":"../img/31.jpg"
 	},
 	{
 		"name":"Lady GagaGaGa",
 		"sex":"female"	,
 		"occupatoin":"singer actor model",
-		"url":"./three/img/30.jpg"
+		"url":"../img/30.jpg"
 	},
 	{
 		"name":"比宝",
 		"sex":"male",
 		"occupatoin":"singer actor model",
-		"url":"./three/img/29.jpg"
+		"url":"../img/29.jpg"
 	}
 ]
